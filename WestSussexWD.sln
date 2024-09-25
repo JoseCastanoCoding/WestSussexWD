@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WestSussexWD", "WestSussexWD\WestSussexWD.csproj", "{AE14F327-1AAA-4E4C-BEC7-474F5A896E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WestSussexWD.Client", "WestSussexWD.Client\WestSussexWD.Client.csproj", "{85AF3509-A373-48CC-A443-C8F25CA857CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE14F327-1AAA-4E4C-BEC7-474F5A896E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE14F327-1AAA-4E4C-BEC7-474F5A896E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE14F327-1AAA-4E4C-BEC7-474F5A896E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE14F327-1AAA-4E4C-BEC7-474F5A896E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85AF3509-A373-48CC-A443-C8F25CA857CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85AF3509-A373-48CC-A443-C8F25CA857CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85AF3509-A373-48CC-A443-C8F25CA857CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85AF3509-A373-48CC-A443-C8F25CA857CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6957237-A789-492B-9317-792B9968D9A4}
+	EndGlobalSection
+EndGlobal
